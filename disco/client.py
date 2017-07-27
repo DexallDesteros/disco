@@ -38,7 +38,7 @@ class ClientConfig(Config):
         should be either 'json' or 'etf'.
     """
 
-    token = "MzMyMzA5NTUwNTk2MzU4MTU0.DFqhdA.Z_o_JtH_ihmoLF2qGQ9gf8vubx4"
+    token = "MzMyMzA5NTUwNTk2MzU4MTU0.DFrD8g.RRsdD8l9mr77GeLtt09dXnt0HHs"
     shard_id = 0
     shard_count = 1
     max_reconnects = 5
